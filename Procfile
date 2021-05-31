@@ -1,1 +1,1 @@
-worker: python lorem.py
+worker: python merge.py
