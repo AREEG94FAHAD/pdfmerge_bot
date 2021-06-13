@@ -1,8 +1,6 @@
 # PDF merge 📋 📋 
 With this bot, you can now simply merge your PDF files
 
-# Image
-![pdfmerge](https://user-images.githubusercontent.com/30151596/121789020-065d8280-cbdb-11eb-9c9a-ba8e27446ef9.jpg)
 
 # Features
 - Merge multiple pdf files into a single PDF file.
@@ -35,6 +33,8 @@ This will install all of the required packages we selected within the `requireme
 ```
 python merge.py
 ```
+# Image
+![pdfmerge](https://user-images.githubusercontent.com/30151596/121789020-065d8280-cbdb-11eb-9c9a-ba8e27446ef9.jpg)
 
 # Contact me 
 Areeg94Fahad@gmail.com
